@@ -1,0 +1,1 @@
+void sumuj_wiersze_w_macierzy(const char* nazwa_pliku, int** macierz, int wiersze, int elementy);
